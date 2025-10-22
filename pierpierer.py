@@ -1,7 +1,10 @@
 import pyperclip
 import time
+import sys
 
-print("PierPierer v1.0.0")
+sys.set_int_max_str_digits(0)
+
+print("PierPierer v1.0.1")
 try:
     howmany = int(input("Ile chcesz powtorzen czesci 'pier'?: "))
 except ValueError:
