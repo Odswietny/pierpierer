@@ -8,4 +8,4 @@ Użyte moduły, które nie są dołączone do Pythona: pyperclip
 
 W razie problemów polecam zostawić issue.
 
-Ktoś może kojarzy z mojego kanału na YouTube (rip, iykyk 💀) teksty typu "spierpierpierpieraj". "zapierpierpieraj", "odpierpierpieralalala"? No i to jest właśnie tym zainspirowane.
+Ktoś może kojarzy z mojego kanału na YouTube (rip, iykyk 💀) teksty typu "spierpierpierpieraj". "zapierpierpieraj", "odpierpierpieralalala"? W takim razie ten program jest inspirowany właśnie tymi tekstami.
